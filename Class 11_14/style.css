@@ -1,0 +1,21 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+h3 {
+    font-weight: 700;
+}
+.nytArticle {
+    margin: auto;
+    margin-bottom: 200px;
+    width: 600px;
+}
+.nytArticle img {
+    width: 100%;
+}
+.articleImage {
+    float: left;
+    width: 50%;
+}
+.text {
+    margin-left: 55%;
+}
